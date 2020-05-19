@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//sec-ant.github.io/EMD-Blog/static/css/main.5f361e03.chunk.css",
+    "main.js": "/http//sec-ant.github.io/EMD-Blog/static/js/main.df5fc83b.chunk.js",
+    "main.js.map": "/http//sec-ant.github.io/EMD-Blog/static/js/main.df5fc83b.chunk.js.map",
+    "runtime-main.js": "/http//sec-ant.github.io/EMD-Blog/static/js/runtime-main.bcf40925.js",
+    "runtime-main.js.map": "/http//sec-ant.github.io/EMD-Blog/static/js/runtime-main.bcf40925.js.map",
+    "static/js/2.2c355e6d.chunk.js": "/http//sec-ant.github.io/EMD-Blog/static/js/2.2c355e6d.chunk.js",
+    "static/js/2.2c355e6d.chunk.js.map": "/http//sec-ant.github.io/EMD-Blog/static/js/2.2c355e6d.chunk.js.map",
+    "index.html": "/http//sec-ant.github.io/EMD-Blog/index.html",
+    "precache-manifest.b6dffe427e4efbf06ae365c101db009e.js": "/http//sec-ant.github.io/EMD-Blog/precache-manifest.b6dffe427e4efbf06ae365c101db009e.js",
+    "service-worker.js": "/http//sec-ant.github.io/EMD-Blog/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/http//sec-ant.github.io/EMD-Blog/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2c355e6d.chunk.js.LICENSE.txt": "/http//sec-ant.github.io/EMD-Blog/static/js/2.2c355e6d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/http//sec-ant.github.io/EMD-Blog/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcf40925.js",
+    "static/js/2.2c355e6d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.df5fc83b.chunk.js"
+  ]
+}
