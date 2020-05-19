@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/EMD-Blog/static/css/main.5f361e03.chunk.css",
-    "main.js": "/EMD-Blog/static/js/main.bbb976ca.chunk.js",
-    "main.js.map": "/EMD-Blog/static/js/main.bbb976ca.chunk.js.map",
+    "main.js": "/EMD-Blog/static/js/main.4a590de2.chunk.js",
+    "main.js.map": "/EMD-Blog/static/js/main.4a590de2.chunk.js.map",
     "runtime-main.js": "/EMD-Blog/static/js/runtime-main.37ac65c4.js",
     "runtime-main.js.map": "/EMD-Blog/static/js/runtime-main.37ac65c4.js.map",
-    "static/js/2.2c355e6d.chunk.js": "/EMD-Blog/static/js/2.2c355e6d.chunk.js",
-    "static/js/2.2c355e6d.chunk.js.map": "/EMD-Blog/static/js/2.2c355e6d.chunk.js.map",
+    "static/js/2.f2ae0e01.chunk.js": "/EMD-Blog/static/js/2.f2ae0e01.chunk.js",
+    "static/js/2.f2ae0e01.chunk.js.map": "/EMD-Blog/static/js/2.f2ae0e01.chunk.js.map",
     "index.html": "/EMD-Blog/index.html",
-    "precache-manifest.cd1f9bb3729b2f443a16c4b6eca008f7.js": "/EMD-Blog/precache-manifest.cd1f9bb3729b2f443a16c4b6eca008f7.js",
+    "precache-manifest.8b3db7114c228419e9e041d5576f0991.js": "/EMD-Blog/precache-manifest.8b3db7114c228419e9e041d5576f0991.js",
     "service-worker.js": "/EMD-Blog/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/EMD-Blog/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2c355e6d.chunk.js.LICENSE.txt": "/EMD-Blog/static/js/2.2c355e6d.chunk.js.LICENSE.txt",
+    "static/js/2.f2ae0e01.chunk.js.LICENSE.txt": "/EMD-Blog/static/js/2.f2ae0e01.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/EMD-Blog/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.37ac65c4.js",
-    "static/js/2.2c355e6d.chunk.js",
+    "static/js/2.f2ae0e01.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bbb976ca.chunk.js"
+    "static/js/main.4a590de2.chunk.js"
   ]
 }
